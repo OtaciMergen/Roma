@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Roma.vcxproj" Id="76af7724-7567-4c97-8dec-875664cb30a9" />
+</Solution>
