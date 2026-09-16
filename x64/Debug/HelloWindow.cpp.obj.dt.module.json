@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Roma\\x64\\Debug\\HelloWindow.obj",
+            "outputs": [
+                "Roma\\x64\\Debug\\HelloWindow.cpp.obj.dt.module.json",
+                "Roma\\x64\\Debug\\HelloWindow.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
